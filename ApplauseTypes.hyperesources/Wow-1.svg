@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="40px" viewBox="0 0 42 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Wow</title>
+    <defs>
+        <linearGradient x1="50%" y1="43.108724%" x2="50%" y2="99.6271307%" id="linearGradient-1">
+            <stop stop-color="#FFD62F" offset="0%"></stop>
+            <stop stop-color="#FB9D0B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3.45621156,10.4954999 C2.65265587,6.62367062 5.46079702,3.62625562 7.84983424,6.25981168 L7.84718675,6.29246206 L7.84718675,6.29246206 L7.81666441,6.54473684 C7.40855066,9.58255953 5.28083336,11.2416373 3.48248518,10.6140615 Z" id="path-2"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reactions/-button" transform="translate(-100.000000, 0.000000)">
+            <g id="Wow" transform="translate(100.000000, 0.000000)">
+                <g id="Group">
+                    <g id="Background/Gradient-">
+                        <path d="M41.9967281,20.3482093 C41.8317061,38.6861031 35.5919902,40 21.0549704,40 C6.10303817,40 -0.235219408,38.3093203 0.00665563001,19.5026273 C0.239572334,1.39235296 6.35292857,0 20.7720756,0 C35.7042051,0 42.1669364,1.44029833 41.9967281,20.3482093 Z" id="Fill-203" fill="#FFD62F"></path>
+                        <path d="M41.9967281,20.3482093 C41.8317061,38.6861031 35.5919902,40 21.0549704,40 C6.10303817,40 -0.235219408,38.3093203 0.00665563001,19.5026273 C0.239572334,1.39235296 6.35292857,0 20.7720756,0 C35.7042051,0 42.1669364,1.44029833 41.9967281,20.3482093 Z" id="Fill-203" fill="url(#linearGradient-1)" opacity="0.6"></path>
+                    </g>
+                    <g id="Eye/Open" transform="translate(3.397129, 8.277512)">
+                        <g id="Group-Copy" transform="translate(0.418660, 0.418660)">
+                            <circle id="Oval" fill="#182242" cx="6.99760766" cy="6.99760766" r="6.99760766"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="5.05382775" cy="5.05382775" r="2.72129187"></circle>
+                        </g>
+                    </g>
+                    <g id="Eye/Open-Copy" transform="translate(23.492823, 8.277512)">
+                        <g id="Group-Copy" transform="translate(0.418660, 0.418660)">
+                            <circle id="Oval" fill="#182242" cx="6.99760766" cy="6.99760766" r="6.99760766"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="5.05382775" cy="5.05382775" r="2.72129187"></circle>
+                        </g>
+                    </g>
+                </g>
+                <g id="Face/Maoth/Open-4" transform="translate(16.358852, 23.392344)">
+                    <g id="Group-3" transform="translate(0.196172, 0.196172)">
+                        <path d="M7.81666441,6.54473684 C8.95880186,-0.987706828 -0.144101139,-0.977511962 0.995611779,6.52822967 C1.94513331,12.7779904 7.0678417,11.4832536 7.81666441,6.54473684 Z" id="Fill-189" fill="#182242"></path>
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#FA374B" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
